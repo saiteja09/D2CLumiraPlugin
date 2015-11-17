@@ -1,0 +1,9 @@
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\bin\Debug\EloquaDataAccessPlugin.exe.config
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\bin\Debug\EloquaDataAccessPlugin.exe
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\bin\Debug\EloquaDataAccessPlugin.pdb
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\EloquaDataAccessPlugin.Form1.resources
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\EloquaDataAccessPlugin.LoginDDC.resources
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\EloquaDataAccessPlugin.Properties.Resources.resources
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\EloquaDataAccessPlugin.csproj.GenerateResource.Cache
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\EloquaDataAccessPlugin.exe
+C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\EloquaDataAccessPlugin.pdb
