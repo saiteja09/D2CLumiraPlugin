@@ -19,7 +19,7 @@ SAP Lumira Data Access Extension Plugin using DataDirect Cloud Service
 
 9.	Now create a folder named daextensions at directory C:\Program Files\SAP Lumira\Desktop
 10.	Now copy the extension plugin in to the directory daextensions and restart your SAP Lumira, if you have opened it.
-11.	After restart, Go to File -> New -> Select External Data Source ->  Select Eloqua Data Access plugin -> and click on Next.
+11.	After restart, Go to File -> New -> Select External Data Source ->  Select D2CLumiraPlugin -> and click on Next.
 12.	Enter your DataDirect Credentials on the form, DSN Name of ODBC driver for Data Direct Cloud that you have configured in ODBC administrator and click on Connect.
 13.	If Authenticated successfully, you can Select the Entity that you want to use from the dropdown and Press OK to see preview of the data.
 14.	If you face any issues using Progress DataDirect Clloud Service, please feel free to contact <a href="mailto:sbobba@progress.com?Subject=Issues%20with%20SAP%20Lumira%20Data%20Access%20plugin" target="_top">Me</a> or   [support](https://www.progress.com/support/call-support)
