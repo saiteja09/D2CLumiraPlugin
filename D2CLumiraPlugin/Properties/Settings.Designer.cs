@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EloquaDataAccessPlugin.Properties
+namespace D2CLumiraPlugin.Properties
 {
 
 

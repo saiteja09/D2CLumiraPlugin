@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using System.Runtime.Serialization.Json;
 using System.Web;
 
-namespace EloquaDataAccessPlugin
+namespace D2CLumiraPlugin
 {
     public partial class LoginDDC : Form
     {

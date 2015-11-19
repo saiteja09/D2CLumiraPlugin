@@ -1,4 +1,4 @@
-﻿namespace EloquaDataAccessPlugin
+﻿namespace D2CLumiraPlugin
 {
     partial class Form1
     {

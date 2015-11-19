@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.Odbc;
 
-namespace EloquaDataAccessPlugin
+namespace D2CLumiraPlugin
 {
     public partial class Form1 : Form
     {

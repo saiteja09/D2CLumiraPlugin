@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EloquaDataAccessPlugin
+namespace D2CLumiraPlugin
 {
     class WritetoConsole
     {
@@ -123,8 +123,6 @@ namespace EloquaDataAccessPlugin
                 return "";
             }
             string field = obj.ToString();
-            // Wrapping a field in quotation marks allows it to contain the CSV delimeter  
-            // Quotation mark characters have to be doubled up (" -> "")  
             field = field.Replace("\"", "\"\"");
             return "\"" + field + "\"";
         }

@@ -7,3 +7,12 @@ C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\Elo
 C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\D2CLumiraPlugin.csproj.GenerateResource.Cache
 C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\D2CLumiraPlugin.exe
 C:\Users\sbobba\documents\visual studio 2015\Projects\EloquaDataAccessPlugin\EloquaDataAccessPlugin\obj\Debug\D2CLumiraPlugin.pdb
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\bin\Debug\D2CLumiraPlugin.exe.config
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\bin\Debug\D2CLumiraPlugin.exe
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\bin\Debug\D2CLumiraPlugin.pdb
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\obj\Debug\D2CLumiraPlugin.Form1.resources
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\obj\Debug\D2CLumiraPlugin.LoginDDC.resources
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\obj\Debug\D2CLumiraPlugin.Properties.Resources.resources
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\obj\Debug\D2CLumiraPlugin.csproj.GenerateResource.Cache
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\obj\Debug\D2CLumiraPlugin.exe
+C:\Users\sbobba\Desktop\D2CLumiraPlugin-master\D2CLumiraPlugin\obj\Debug\D2CLumiraPlugin.pdb

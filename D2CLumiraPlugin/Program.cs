@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.Odbc;
 
-namespace EloquaDataAccessPlugin
+namespace D2CLumiraPlugin
 {
     static class Program
     {
